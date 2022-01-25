@@ -1,2 +1,1 @@
-# First_time
-Linking from ibm watson
+This is linked from IBM watson
